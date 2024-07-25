@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+}
+#music{
+    font-size: 20px;
+}
+#publish{
+    font-size: 20px;
+}
+#wallpaper{
+    height: 800px;
+    width: 800px;
+}
+#image{
+    height: 500px;
+    width: 600px;
+}
+#web{
+    color: black;
+    background-color: aqua;
+    font-size: 100px;
+    border: red 2px solid;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
